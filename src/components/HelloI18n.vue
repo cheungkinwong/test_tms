@@ -1,5 +1,5 @@
 <template>
-  <p>{{ $t('Hello robot and butterfly!') }}, {{$t('Welcome')}}, {{$t('qdfq')}},{{$t('Butterfly')}}</p>
+  <p>{{ $t('Hello robot and butterfly!') }}, {{$t('Welcome')}}, {{$t('qdfq')}},{{$t('Butterfly')}}, {{$t('auto')}}</p>
 </template>
 
 <script>
