@@ -1,0 +1,3 @@
+files:
+  - source: /testExtract.json
+    translation: /src/locales/%two_letters_code%
